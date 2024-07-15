@@ -1,3 +1,6 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -9,12 +12,17 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: 'Roboto Mono', sans-serif;
 
 }
 
 /* Header */
 header {
 background-color: blueviolet;
+}
+
+h1{
+    font-family: 'Roboto Mono', sans-serif;
 }
 /* Main Content */
 main {
