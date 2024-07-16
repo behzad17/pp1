@@ -68,10 +68,14 @@ nav{
 #nav-toggle{
     display: none;
 }
+.nav-toggle-label{
+    font-size: 2rem;
+}
 /* Main Content */
 main {
     background-color: aquamarine;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 /* Footer */
 footer {
